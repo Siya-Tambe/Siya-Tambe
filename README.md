@@ -1,20 +1,9 @@
-## 👋 About Me:
+# 💫 About Me:
+🔭Building small projects and practice exercises to strengthen my basics in data analytics.<br>👯 Beginner-friendly data analysis projects, Python practice, and learning-focused repositories.<br>🤝 Understanding real-world datasets, improving data interpretation, and writing cleaner analysis code.<br>🌱 Python, data analysis libraries (Pandas, NumPy, Matplotlib), and problem-solving techniques.<br>💬 Getting started with data analytics, learning Python as a beginner, or organising projects step by step.<br>⚡ I’m exploring data analytics one step at a time, focusing more on understanding patterns and insights than rushing advanced tools 
 
-📊 I’m a beginner in data analytics, focused on understanding data, patterns, and insights  
-🌱 Currently learning Python, data analysis libraries, and improving problem-solving skills  
-🚀 Exploring analytics step-by-step while building a strong foundation
-
----
 
 ## 🌐 Socials:
-📧 Email: siyatambe0709@gmail.com 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siyphryx___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Siya Tambe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@honeyDoodle101) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siyatambe0709@gmail.com) 
 
----
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
