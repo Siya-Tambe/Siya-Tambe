@@ -5,13 +5,6 @@ I'm a developer from **Pune, India** 🇮🇳 who loves turning ideas into real,
 
 ---
 
-## 🔨 What I'm working on
-- 🤖 **PriceSense** — AI-powered price tracker for Indian e-commerce. Tells you exactly when to buy.
-- ✈️ **VOYAGO** — A travel agency frontend with a clean, modern UI design.
-- 📚 Always learning something new in **Full-stack dev · AI · Data analytics**
-
----
-
 ## 🚀 Featured Projects
 
 ### ✈️ [VOYAGO](https://github.com/Siya-Tambe/VOYAGO)
@@ -61,15 +54,6 @@ ML project that predicts high-risk loan customers using 20,000 Indian financial 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siya-Tambe&theme=tokyonight" />
 </p>
-
----
-
-## 🎯 2025 Goals
-- [ ] 🚀 Land my first dev internship
-- [ ] 🌐 Deploy PriceSense online
-- [ ] 📱 Build a mobile app
-- [ ] 🤖 Go deeper into AI & ML
-- [ ] 💼 Build a portfolio worth showing off
 
 ---
 
