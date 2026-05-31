@@ -4,15 +4,25 @@
 I'm a developer from **Pune, India** 🇮🇳 who loves turning ideas into real, working applications. I build full-stack web apps, explore AI, and sneak data analytics in wherever I can. When I'm not coding, I'm either watching anime, chasing sunsets, or trying to pet every animal I come across. 🐴🐕🐈
 
 ---
-
 ## 🚀 Featured Projects
 
-### ✈️ [VOYAGO](https://github.com/Siya-Tambe/VOYAGO)
-> *Travel smarter, not harder.*
+### 🗣️ [Financial Complaint NLP Classifier](https://github.com/Siya-Tambe/customer-complaint-NLP-classifier)
+> *40,000 real complaints. One model to route them all.*
 
-A travel agency website with a premium frontend design. Clean UI, modern layout, fully responsive.
+End-to-end NLP system that auto-classifies financial customer complaints into 5 categories using TF-IDF + Logistic Regression. Achieved **87% accuracy** on CFPB data — outperforming Naive Bayes baseline by 4.5%. Deployed as a live Streamlit app with per-category confidence scores.
 
-`HTML` `CSS` `JavaScript`
+🔗 [Live Demo](https://financial-complaint-nlp.streamlit.app)
+
+`Python` `scikit-learn` `NLTK` `TF-IDF` `Streamlit` `pandas` `Google Colab`
+
+---
+
+### 🏦 [Indian EMI Loan Default Predictor](https://github.com/Siya-Tambe/Indian-emi-default-prediction)
+> *Can a machine tell who's going to miss their EMI? Apparently, yes — 91.3% of the time.*
+
+ML project that predicts high-risk loan customers using 20,000 Indian financial profiles. Random Forest achieved 91.3% accuracy and ROC-AUC of 0.979 vs Logistic Regression's 0.620 — proving the relationship between financial features and default risk is non-linear. Visualised in Google Looker Studio with an interactive dashboard.
+
+`Python` `scikit-learn` `pandas` `numpy` `matplotlib` `seaborn` `Google Looker Studio` `Google Colab`
 
 ---
 
@@ -25,13 +35,12 @@ End-to-end data analytics project that scrapes live Internshala listings across 
 
 ---
 
-### 🏦 [Indian EMI Loan Default Predictor](https://github.com/Siya-Tambe/Indian-emi-default-prediction)
-> *Can a machine tell who's going to miss their EMI? Apparently, yes — 91.3% of the time.*
+### ✈️ [VOYAGO](https://github.com/Siya-Tambe/VOYAGO)
+> *Travel smarter, not harder.*
 
-ML project that predicts high-risk loan customers using 20,000 Indian financial profiles. Random Forest model achieved 91.3% accuracy and ROC-AUC of 0.979 vs Logistic Regression's 0.620 — proving the relationship between financial features and default risk is non-linear. Visualised in Google Looker Studio with an interactive dashboard.
+A travel agency website with a premium frontend design. Clean UI, modern layout, fully responsive.
 
-`Python` `scikit-learn` `pandas` `numpy` `matplotlib` `seaborn` `Google Looker Studio` `Google Colab`
-
+`HTML` `CSS` `JavaScript` `Tailwind CSS`
 ---
 
 ## 🛠️ Tech Stack
