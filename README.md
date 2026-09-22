@@ -1,3 +1,7 @@
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/097b85bd-4982-45d8-96c7-159c47cc1adf" />
+
+
+
 # Hey, I'm Siya! 🌊✨
 > *"Building things that actually work — one project at a time."*
 
