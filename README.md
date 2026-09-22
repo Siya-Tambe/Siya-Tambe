@@ -1,8 +1,5 @@
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/097b85bd-4982-45d8-96c7-159c47cc1adf" />
 
-
-
-# Hey, I'm Siya! 🌊✨
 > *"Building things that actually work — one project at a time."*
 
 I'm a developer from **Pune, India** 🇮🇳 who loves turning ideas into real, working applications. I build full-stack web apps, explore AI, and sneak data analytics in wherever I can. When I'm not coding, I'm either watching anime, chasing sunsets, or trying to pet every animal I come across. 🐴🐕🐈
